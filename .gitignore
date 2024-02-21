@@ -7,8 +7,9 @@
 # Jupyter notebook checkpoint files
 *-checkpoint.ipynb
 
-# MongoDB Database Files
-MongoDBData/
-
 # Temporary Office files when file is open
 *~$*
+
+# Visual Studio Code Preference Files
+*.code-workspace
+*.vscode
